@@ -1,8 +1,15 @@
 ﻿Esta es la historia de Crisabel111
 
+<<<<<<< HEAD
 Crisabel111 tiene 29 años y nacio en Colombia 
 y vivió en todo el mundo :) 
 
 Mañana hableremos de su vida laboral
+=======
+Crisabel111 tiene 30 años y nacio en Colombia 
+y vivió en todo el mundo :) 
+
+Hoy hableremos de su historia y obra  maestra.
+>>>>>>> master
 
 en fotos parece que estoy gorda pero en realidad no lo es ;)
